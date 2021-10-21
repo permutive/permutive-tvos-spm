@@ -2,7 +2,7 @@
 
 This repo provides SPM support for Permutive tvOS SDK.
 
-You can find iOS support [here](https://github.com/permutive/permutive-ios-spm).
+You can find iOS support [here](https://github.com/permutive-engineering/permutive-ios-spm).
 
 Please refer to the SDK documentation [here](https://developer.permutive.com/docs/ios).
 Get the latest release notes [here](https://developer.permutive.com/docs/ios-release-notes).
