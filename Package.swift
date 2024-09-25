@@ -18,6 +18,6 @@ let package = Package(
     targets: [
         .binaryTarget(name:"Permutive_tvOS",
 		url:"https://storage.googleapis.com/permutive-ios-sdks/swift-sdk/Permutive_tvOS-v2.2.0.zip",
-		checksum:"90d4c113dc41ec9ad7b7e53fc7f8ed3a7a0fad93a455429ac5f3f3a694b83eb4")
+		checksum:"64c2447e15b268b9ce341f2929c85c61f7f5049b6578ab3d77c102ed508bb686")
     ]
 )
